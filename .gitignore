@@ -9,7 +9,15 @@ Thumbs.db
 .vscode/
 .idea/
 
+# Python 虚拟环境（评测工具链，本地安装）
+.venv/
+
 # 本地实验产物（不入库）
 runs/
 results/
 *.log
+
+# 登录态与 cookie（绝不入库）
+.cn-scraper-cookies/
+jd_login_profile/
+.agent-reach/

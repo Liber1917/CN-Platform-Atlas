@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "cn-scraper": {
+      "command": "E:\\CC\\CN-Platform-Atlas\\.venv\\Scripts\\cn-scraper-mcp.exe",
+      "args": [],
+      "env": {}
+    }
+  }
+}
